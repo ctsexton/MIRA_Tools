@@ -1,0 +1,3 @@
+[submodule "lib/Max-Time-Savers"]
+	path = lib/Max-Time-Savers
+	url = https://github.com/ctsexton/Max-Time-Savers.git
