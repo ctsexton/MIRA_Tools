@@ -567,7 +567,7 @@
 					"outlettype" : [ "", "float" ],
 					"patching_rect" : [ 77.0, 288.0, 117.0, 22.0 ],
 					"style" : "",
-					"text" : "enc_to_range 500"
+					"text" : "cts.enc_to_range 500"
 				}
 
 			}
@@ -930,7 +930,7 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "enc_to_range.maxpat",
+				"name" : "cts.enc_to_range.maxpat",
 				"bootpath" : "~/Documents/Max/Patches/Abstractions",
 				"patcherrelativepath" : "..",
 				"type" : "JSON",
